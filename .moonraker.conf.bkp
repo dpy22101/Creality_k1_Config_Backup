@@ -80,7 +80,7 @@ repo = fluidd-core/fluidd
 path = /usr/data/fluidd
 
 [simplyprint]
-webcam_name = camera
+webcam_name = Camera
 filament_sensor = filament_switch_sensor filament_sensor_2
 ambient_sensor = temperature_sensor chamber_temp
 
